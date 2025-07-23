@@ -35,3 +35,4 @@ If you want to extract files from a .FDIR file then use this command:<br>
 
 Windows x86_64<br>
 Linux x64<br>
+MacOS (Intel, Apple Silicon users will need to compile the binary manually)<br>
